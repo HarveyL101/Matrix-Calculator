@@ -5,13 +5,10 @@ A Calculator to perform operations such as:
 - Subtraction
 - Multiplication
 
-
-
-
-
-
-
-
+Functions to be added after the core functionality:
+- Transpose function
+- Finding the determinant function
+- Finding the rank of a matrix
 
 ## Technologies used in this project:
 - **Javascript**
