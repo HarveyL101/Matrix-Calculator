@@ -1,0 +1,20 @@
+{
+  "name": "matrix-calculator",
+  "version": "1.0.0",
+  "description": "Matrix Calculator with multiple operations",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node main.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarveyL101/Matrix-Calculator.git"
+  },
+  "author": "Harvey Lopez @HarveyLopez101@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarveyL101/Matrix-Calculator/issues"
+  },
+  "homepage": "https://github.com/HarveyL101/Matrix-Calculator#readme"
+}
